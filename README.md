@@ -20,11 +20,7 @@
   </a>
 
 - **Repository Downloads:**  
-  Replace `your-repo` with your repository name, or duplicate the line for each repo with releases!
-  ```
-  ![GitHub all releases](https://img.shields.io/github/downloads/miniusbhater/your-repo/total?label=your-repo%20downloads)
-  ```
-  Example (for a repo named "usb-toolkit"):
+ 
   ![Github all releases](https://img.shields.io/github/downloads/miniusbhater/GetThatOS/total?label=GetThatOS%20downloads)
 
 ---

@@ -4,11 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rounded&height=300&color=gradient&text=Hey!%20i'm%20miniusbhater&reversal=false&animation=twinkling&fontAlignY=50" alt="header"/>
 </p>
 
-<p align="center">
-  <a href="https://github.com/miniusbhater">
-    <img src="https://img.shields.io/github/stars/miniusbhater?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="GitHub stars"/>
-  </a>
-</p>
+
 
 ---
 

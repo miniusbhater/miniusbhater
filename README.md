@@ -25,9 +25,7 @@
 
 ---
 
-_⭐️ Pro tip: To add more repos, copy the badge line above and change the repo name!_
 
----
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=miniusbhater&show_icons=true&theme=radical" alt="miniusbhater's GitHub stats"/>

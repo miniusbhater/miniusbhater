@@ -1,7 +1,7 @@
 <!-- Profile README for miniusbhater -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=Hi%20there!%20I'm%20miniusbhater&fontSize=30&animation=twinkling" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=rounded&height=300&color=gradient&text=Hey!%20i'm%20miniusbhater&reversal=false&animation=twinkling&fontAlignY=50" alt="header"/>
 </p>
 
 <p align="center">

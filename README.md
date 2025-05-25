@@ -16,3 +16,12 @@
     </td>
   </tr>
 </table>
+
+------
+
+### Languages i know:
+
+#### • C#
+#### • VB.net
+#### • C++ (Learning)
+

@@ -9,10 +9,10 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=miniusbhater&show_icons=true&theme=radical&width=400&cache_seconds=1800&v3" alt="miniusbhater's GitHub stats" width="400"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=miniusbhater&show_icons=true&theme=radical&width=400&cache_seconds=1800&v4" alt="miniusbhater's GitHub stats" width="400"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miniusbhater&layout=compact&theme=radical&cache_seconds=1800&v3" alt="miniusbhater's most used languages" width="400"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miniusbhater&layout=compact&theme=radical&cache_seconds=1800&v4" alt="miniusbhater's most used languages" width="400"/>
     </td>
   </tr>
 </table>

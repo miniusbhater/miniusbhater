@@ -23,5 +23,6 @@
 
 #### • C#
 #### • VB.net
+#### • Python (sort of)
 #### • C (Learning)
 

@@ -23,5 +23,5 @@
 
 #### • C#
 #### • VB.net
-#### • C++ (Learning)
+#### • C (Learning)
 

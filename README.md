@@ -1,10 +1,15 @@
-# Hi, i'm Rose and i do stupid shit or something like that
+# hi, i'm Rose
 
-## Websites:
+- 15
+- trans girl
+- [discord](https://discord.com/users/1316128597525659729)
+- [discord server](https://discord.gg/8VEdyjGXmc)
+
+## websites:
 #### https://miniusbhater.uk
 #### https://738748.xyz idk why i own this
 
-<h3 align="left">Stuff I know:</h3>
+<h3 align="left">stuff i know:</h3>
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="40" height="40"/>

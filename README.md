@@ -1,7 +1,7 @@
 # hi, i'm Rose
 
 - 15
-- trans girl
+- 🏳️‍⚧️
 - [discord](https://discord.com/users/1316128597525659729)
 - [discord server](https://discord.gg/8VEdyjGXmc)
 

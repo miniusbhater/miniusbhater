@@ -1,4 +1,9 @@
 # Hi, i'm Rose and i do stupid shit or something like that
+
+## Websites:
+#### https://miniusbhater.uk
+#### https://738748.xyz idk why i own this
+
 <h3 align="left">Stuff I know:</h3>
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer">
@@ -23,6 +28,3 @@
     <img src="https://skillicons.dev/icons?i=unity" alt="Unity" width="40" height="40"/>
   </a>
 </p>
-## Websites:
-#### https://miniusbhater.uk
-#### https://738748.xyz idk why i own this

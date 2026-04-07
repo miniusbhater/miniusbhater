@@ -9,7 +9,7 @@
 #### https://miniusbhater.uk
 #### https://738748.xyz idk why i own this
 #
-[![miniusbhater's GitHub stats](https://github-readme-statss-git-main-xenon-pls-projects.vercel.app/api/top-langs?username=miniusbhater&layout=donut&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) 
+[![miniusbhater's GitHub stats](https://github-readme-statss-git-main-xenon-pls-projects.vercel.app/api/top-langs?username=miniusbhater&layout=donut&theme=onedark)](https://github.com/anuraghazra/github-readme-stats) 
 [![miniusbhater's GitHub stats](https://github-readme-statss-git-main-xenon-pls-projects.vercel.app/api/?username=miniusbhater&layout=donut&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 #
 <p align="left">

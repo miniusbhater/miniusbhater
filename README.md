@@ -10,7 +10,9 @@
 #### https://738748.xyz idk why i own this
 #
 [![miniusbhater's GitHub stats](https://github-readme-statss-git-main-xenon-pls-projects.vercel.app/api/top-langs?username=miniusbhater&layout=donut&theme=onedark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) 
-[![miniusbhater's GitHub stats](https://github-readme-statss-git-main-xenon-pls-projects.vercel.app/api/?username=miniusbhater&layout=donut&theme=onedark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
+[![miniusbhater's GitHub stats](https://github-readme-statss-git-main-xenon-pls-projects.vercel.app/api/?username=miniusbhater&layout=donut&theme=onedark#gh-dark-mode-only#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![miniusbhater's GitHub stats](https://github-readme-statss-git-main-xenon-pls-projects.vercel.app/api/top-langs?username=miniusbhater&layout=donut&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only) 
+[![miniusbhater's GitHub stats](https://github-readme-statss-git-main-xenon-pls-projects.vercel.app/api/?username=miniusbhater&layout=donut&theme=default#gh-dark-mode-only#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 #
 <p align="left">
    <a href="https://developer.mozilla.org/en-US/docs/Web/csharp" target="_blank" rel="noreferrer">

@@ -42,4 +42,4 @@
   </a>
   
 </p>
-![](https://komarev.com/ghpvc/?username=miniusbhater)
+<img src="https://komarev.com/ghpvc/?username=miniusbhater" alt="Profile views" />

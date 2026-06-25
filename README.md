@@ -9,6 +9,11 @@
 #### https://738748.xyz idk why i own this
 #
 
+[![miniusbhater's GitHub stats](https://readme-stats-fast.vercel.app/api/top-langs?username=miniusbhater&layout=donut&theme=onedark#gh-dark-mode-only&v2)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) 
+[![miniusbhater's GitHub stats](https://readme-stats-fast.vercel.app/api/?username=miniusbhater&layout=donut&theme=onedark#gh-dark-mode-only#gh-dark-mode-only&v2)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+
+#
+
 [![C#](https://skillicons.dev/icons?i=cs)](https://developer.mozilla.org/en-US/docs/Web/csharp)
 [![C++](https://skillicons.dev/icons?i=cpp)](https://developer.mozilla.org/en-US/docs/Web/cplusplus)
 [![Python](https://skillicons.dev/icons?i=py)](https://developer.mozilla.org/en-US/docs/Web/python)

@@ -9,8 +9,8 @@
 #### https://738748.xyz idk why i own this
 #
 
-[![miniusbhater's GitHub stats](https://readme-stats-fast.vercel.app/api/top-langs?username=miniusbhater&layout=donut&theme=onedark#gh-dark-mode-only&v3)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) 
-[![miniusbhater's GitHub stats](https://readme-stats-fast.vercel.app/api/?username=miniusbhater&layout=donut&theme=onedark#gh-dark-mode-only#gh-dark-mode-only&v3)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![miniusbhater's GitHub stats](https://readme-stats-fast.vercel.app/api/top-langs?username=miniusbhater&layout=donut&theme=onedark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) 
+[![miniusbhater's GitHub stats](https://readme-stats-fast.vercel.app/api/?username=miniusbhater&layout=donut&theme=onedark#gh-dark-mode-only#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 #
 

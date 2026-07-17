@@ -3,6 +3,8 @@
 - 🏳️‍⚧️
 - [discord](https://discord.com/users/1316128597525659729)
 - [discord server](https://discord.gg/8VEdyjGXmc)
+- i love vr
+- current headsets: Rift DK2, Rift CV1, Oculus Go, Rift S, Quest 1, Quest 2. Quest 3s
 
 ## websites:
 #### https://miniusbhater.uk
